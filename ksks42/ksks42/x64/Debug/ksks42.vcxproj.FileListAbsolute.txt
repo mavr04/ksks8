@@ -1,0 +1,5 @@
+C:\Users\mavr\source\repos\ksks42\ksks42\x64\Debug\ksks42.vcxproj.AssemblyReference.cache
+F:\3 курс\3 курс 1 семестр\КСКС\ЛР 5\ksks42\ksks42\x64\Debug\ksks42.vcxproj.AssemblyReference.cache
+F:\3 курс\3 курс 1 семестр\КСКС\ЛР 6\ksks42\ksks42\x64\Debug\ksks42.vcxproj.AssemblyReference.cache
+F:\3 курс\3 курс 1 семестр\КСКС\ЛР 7\ksks42\ksks42\x64\Debug\ksks42.vcxproj.AssemblyReference.cache
+F:\3 курс\3 курс 1 семестр\КСКС\ЛР 8\ksks42\ksks42\x64\Debug\ksks42.vcxproj.AssemblyReference.cache
